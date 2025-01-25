@@ -6,6 +6,21 @@ def guess_the_number():
     attempts = 0
     
     while True:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
         try:
             user_guess = int(input("Enter your guess (between 1 and 100): "))
             attempts += 1
